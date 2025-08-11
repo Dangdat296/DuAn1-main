@@ -24,16 +24,16 @@
 
               <!-- Format -->
               <div class="form-group col-6">
-                <label for="format">Định dạng <span class="text-danger">*</span></label>
+                <label for="format">THể loạ<i></i> <span class="text-danger">*</span></label>
                 <select class="form-control" name="format" id="format" required>
-                  <option value="Bìa cứng">Bìa Cứng</option>
-                  <option value="Bìa mềm">Bìa Mềm</option>
+                  <option value="Bìa cứng">Nam</option>
+                  <option value="Bìa mềm">Nữ</option>
                 </select>
               </div>
 
               <!-- Language -->
               <div class="form-group col-6">
-                <label for="language">Ngôn ngữ <span class="text-danger">*</span></label>
+                <label for="language">NGuồn(trong nươc-ngoài nước) <span class="text-danger">*</span></label>
                 <input type="text" class="form-control" name="language" placeholder="Ví dụ: Tiếng Việt, Tiếng Anh"
                   required>
               </div>
@@ -64,8 +64,8 @@
 
               <!-- ISBN -->
               <div class="form-group col-6">
-                <label for="isbn">ISBN <span class="text-danger">*</span></label>
-                <input type="text" class="form-control" name="isbn" placeholder="Nhập mã ISBN" required>
+                <label for="isbn">IDBN <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" name="isbn" placeholder="Nhập mã IDBN" required>
               </div>
 
               <!-- Image -->

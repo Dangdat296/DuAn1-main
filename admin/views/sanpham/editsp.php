@@ -39,7 +39,7 @@
                 <!-- Tên tác giả -->
                 <div class="col-md-6">
                   <div class="form-group mb-0">
-                    <label for="author_id" class="form-label fw-medium">Tên tác giả <span class="text-danger">*</span></label>
+                    <label for="author_id" class="form-label fw-medium">Tên người bán <span class="text-danger">*</span></label>
                     <select class="form-select form-select-lg <?= isset($errors['author_id']) ? 'is-invalid' : '' ?>" name="author_id" id="author_id">
                       <option selected disabled>Chọn tác giả</option>
                       <?php foreach ($listTacGia as $tacGia): ?>

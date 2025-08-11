@@ -26,7 +26,7 @@
     <!-- Main Content Card -->
     <div class="card shadow-sm border-0 rounded-3 overflow-hidden">
       <div class="card-header bg-white py-3 d-flex justify-content-between align-items-center">
-        <h5 class="mb-0 fw-bold text-primary">Quản Lý Sách</h5>
+        <h5 class="mb-0 fw-bold text-primary">Sản phẩn nước hoa </h5>
         <div>
           <a href="?act=form-them-san-pham" class="btn btn-success">
             <i class="fas fa-plus-circle me-2"></i>Thêm Nước hoa mới
@@ -40,8 +40,8 @@
             <thead class="bg-light">
               <tr>
                 <th class="px-4 py-3" width="5%">STT</th>
-                <th class="px-4 py-3" width="15%">Tên sách</th>
-                <th class="px-4 py-3" width="10%">Tác giả</th>
+                <th class="px-4 py-3" width="15%">Tên Nước Hoa</th>
+                <th class="px-4 py-3" width="10%">Chủ sản phẩm </th>
                 <th class="px-4 py-3" width="8%">Thể loại</th>
                 <th class="px-4 py-3" width="10%">Ngày phát hành</th>
                 <th class="px-4 py-3" width="6%">Sale</th>

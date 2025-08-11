@@ -43,7 +43,7 @@
     </style>
 </head>
 <body>
-    <img src="./clients/assets/img/book.jpg" alt="Background" class="background-img">
+    <img src="https://theperfume.vn/wp-content/uploads/2013/12/banner-nuoc-hoa-chanel.jpg" alt="Background" class="background-img">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">

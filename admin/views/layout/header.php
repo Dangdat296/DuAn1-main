@@ -16,7 +16,7 @@ ob_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo111.png">
-    <title>StoreBook</title>
+    <title>Zelist</title>
     <link href="assets/libs/flot/css/float-chart.css" rel="stylesheet">
     <link href="dist/css/style.min.css" rel="stylesheet">
 </head>
@@ -30,7 +30,7 @@ ob_start();
                             class="ti-menu ti-close"></i></a>
                     <a class="navbar-brand" href="http://localhost/Duan1/">
                         <b class="logo-icon p-l-10">
-                            <img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-4e7c-61fd-98f0-e238940319dc/raw?se=2025-07-19T20%3A54%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=e49d0a48-b2a5-52d6-9459-6e43416a1772&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-19T02%3A22%3A39Z&ske=2025-07-20T02%3A22%3A39Z&sks=b&skv=2024-08-04&sig=iFBk2irSvO827Wy/Q/6wAKnHc22194kpT9oETubhtSU%3D" alt="homepage" class="light-logo"
+                            <img src="../uploads/logo/logo1.png" alt="homepage" class="light-logo"
                                 style="width: 170px; height: auto; max-height: 100px;" />
                         </b>
                     </a>

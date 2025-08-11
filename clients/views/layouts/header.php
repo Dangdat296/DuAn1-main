@@ -64,7 +64,7 @@
                 <a href="./" class="text-decoration-none">
 
                     <h1 class="m-0 display-5 font-weight-semi-bold">
-                    <img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-4e7c-61fd-98f0-e238940319dc/raw?se=2025-07-19T20%3A54%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=e49d0a48-b2a5-52d6-9459-6e43416a1772&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-19T02%3A22%3A39Z&ske=2025-07-20T02%3A22%3A39Z&sks=b&skv=2024-08-04&sig=iFBk2irSvO827Wy/Q/6wAKnHc22194kpT9oETubhtSU%3D" alt="Logo" style="max-width: 100%; height: 150px">
+                    <img src="uploads/logo/logo1.png" alt="Logo" style="max-width: 100%; height: 150px">
                     </h1>
                 </a>
             </div>

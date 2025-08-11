@@ -6,6 +6,7 @@ class DanhMuc
     {
         $this->conn = connectDB();
     }
+    //
     public function getAllDanhMuc()
     {
         try {

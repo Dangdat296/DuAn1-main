@@ -27,7 +27,7 @@
 
             <!-- Language -->
             <div class="form-group col-6">
-              <label for="language">Ngôn ngữ</label>
+              <label for="language">Nguồn(trong nước-Ngoài nước)</label>
               <input type="text" class="form-control" name="language"
                 value="<?= htmlspecialchars($variant['language']) ?>" required>
             </div>

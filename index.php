@@ -56,7 +56,9 @@ match ($act) {
     'process-checkout' => (new CheckoutController())->processCheckout(),
     'checkout' => (new CheckoutController())->index(),
     'order-success' => (new CheckoutController())->orderSuccess(),
+
     'index-momo' => (new CheckoutController())->index(),
+
     'process-momo-payment' => (new PaymentController())->processMomoPayment(),
 
     // đăng nhập đăng ký

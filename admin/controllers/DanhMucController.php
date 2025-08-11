@@ -10,7 +10,7 @@ class DanhMucController
     {
         $this->modelDanhmuc = new DanhMuc();
     }
-
+// 
     public function danhSachDanhMuc()
     {
         $listDanhMuc = $this->modelDanhmuc->getAllDanhMuc();

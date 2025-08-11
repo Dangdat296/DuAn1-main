@@ -7,7 +7,7 @@
             <thead>
                 <tr>
                     <th>STT</th>
-                    <th>Tên truyện</th>
+                    <th>Tên sản phẩm </th>
                     <th>Tên người mua</th>
                     <th>Đánh giá</th>
                     <th>Nội dung</th>

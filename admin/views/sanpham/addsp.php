@@ -22,7 +22,7 @@
 
               <!-- Tên tác giả -->
               <div class="form-group col-6">
-                <label for="author_id">Tên tác giả</label>
+                <label for="author_id">Tên người bán</label>
                 <select class="form-control" name="author_id" id="author_id">
                   <option selected disabled>Chọn tác giả sản phẩm</option>
                   <?php foreach ($listTacGia as $tacGia): ?>

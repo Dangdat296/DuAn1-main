@@ -33,7 +33,7 @@
                         <thead>
                           <tr>
                               <th>ID</th>
-                              <th>Comic ID</th>
+                              <th>Tên sản phẩm </th>
                               <th>Sale Type</th>
                               <th>Sale Value</th>
                               <th>Start Date</th>

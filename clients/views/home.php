@@ -219,7 +219,7 @@
     <div class="row px-xl-5">
         <div class="col-md-6 pb-4">
             <div class="position-relative bg-secondary text-center text-md-right text-white mb-2 py-5 px-5">
-                <img src="https://tse3.mm.bing.net/th/id/OIP.2Ve38au43AQXrMbCzmSooAHaER?rs=1&pid=ImgDetMain&o=7&rm=3"  alt="">
+                <img height="150px" src="https://tse3.mm.bing.net/th/id/OIP.2Ve38au43AQXrMbCzmSooAHaER?rs=1&pid=ImgDetMain&o=7&rm=3"  alt="">
                 <div class="position-relative" style="z-index: 1;">
                     <h5 class="text-uppercase text-primary mb-3">Giảm 20% cho các sản phẩm</h5>
                     <h1 class="mb-4 font-weight-semi-bold">Thể Loại : Bad boy </h1>
@@ -229,7 +229,7 @@
         </div>
         <div class="col-md-6 pb-4">
             <div class="position-relative bg-secondary text-center text-md-left text-white mb-2 py-5 px-5">
-                <img src="https://as2.ftcdn.net/v2/jpg/06/54/94/51/1000_F_654945156_cQUcszp4AVyI0umti5bTUXfqzMYoCHfn.jpg"  alt="">
+                <img height="150px" src="https://as2.ftcdn.net/v2/jpg/06/54/94/51/1000_F_654945156_cQUcszp4AVyI0umti5bTUXfqzMYoCHfn.jpg"  alt="">
                 <div class="position-relative" style="z-index: 1;">
                     <h5 class="text-uppercase text-primary mb-3">Giảm 20% cho các sản phẩm</h5>
                     <h1 class="mb-4 font-weight-semi-bold">Thể Loại : Kiss grey  </h1>

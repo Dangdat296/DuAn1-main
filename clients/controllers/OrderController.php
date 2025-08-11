@@ -29,7 +29,6 @@ class OrderController{
             $order_id = $_POST['order_id'] ?? null;
             $rating = $_POST['rating'] ?? null;
             $review_text = $_POST['review_text'] ?? '';
-    
             // Kiểm tra dữ liệu hợp lệ
             if (empty($user_id) || empty($comic_id) || empty($order_id) || empty($rating) || empty($review_text)) {
                 echo "Dữ liệu không hợp lệ. Vui lòng điền đầy đủ thông tin!";
@@ -119,7 +118,7 @@ class OrderController{
             echo json_encode(['status' => 'error', 'message' => 'Invalid order ID.']);
             return;
         }
-    
+    // comment
         try {
             // Lấy chi tiết đơn hàng từ model
             $orderDetails = $this->modelOrder->getOrderDetailsThongTin($id);
